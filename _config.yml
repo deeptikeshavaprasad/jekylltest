@@ -10,7 +10,7 @@ email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is website is created for documentation as a practical way of learning Jekyll. This is a dummy, test website.
 baseurl: "/doc-testwebsite" # the subpath of your site, e.g. /blog
-url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://deeptikeshavaprasad.github.io/jekylltest/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  deeptikeshavaprasad
 
